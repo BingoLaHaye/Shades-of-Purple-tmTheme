@@ -72,8 +72,9 @@
 }
 
 .ace_keyword.ace_operator.ace_paren{
-  color: #FAD000
+  color: #A599E9
 }
+
 
 .ace_constant {
   color: #FF628C;
@@ -86,7 +87,7 @@
 }
 
 .ace_support.ace_function {
-  color: #FFB054;
+  color: #A599E9;
 
 }
 
@@ -101,7 +102,7 @@
 }
 
 .ace_storage {
-  color: #FF9D00;
+  color: #FF628C;
 
 }
 
