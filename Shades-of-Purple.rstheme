@@ -72,7 +72,7 @@
 }
 
 .ace_keyword.ace_operator.ace_paren{
-  color: #A599E9
+  color: #FB94FF;
 }
 
 
