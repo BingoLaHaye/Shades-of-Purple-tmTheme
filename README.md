@@ -4,7 +4,7 @@
 
 ## How to install:
 
-### 1. Copy and paste this code to run 
+### 1. Copy and paste this code in your console
 
 ```{r}
 sop_theme <- fs::path_temp("sop_rstudio", ext = "rstheme")
