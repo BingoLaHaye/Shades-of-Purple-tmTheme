@@ -1,6 +1,8 @@
-# 🦄 Shades of Purple `.RsTheme`
+# 🦄 Shades of Purple Rstudio
 
- > A shades of purple theme for Rstudio
+### A shades of purple theme for Rstudio
+ 
+ ![](Capture.PNG)
 
 ## How to install:
 
