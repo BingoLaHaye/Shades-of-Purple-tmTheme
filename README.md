@@ -2,7 +2,7 @@
 
 ### A shades of purple theme for Rstudio
  
- ![](Capture.PNG)
+ ![](new_capture.PNG)
 
 ## How to install:
 
